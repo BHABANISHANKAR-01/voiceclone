@@ -1,0 +1,6 @@
+{
+  "name": "VoiceClone Studio - AI Voice Cloning & Speech Synthesis",
+  "description": "Clone any voice from a 30-second audio sample and generate lifelike speech for any custom script with acoustic DNA profiling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
